@@ -1,6 +1,6 @@
 {
-    "name": "study_rpg_web",
-    "short_name": "study_rpg_web",
+    "name": "Study Cam",
+    "short_name": "Study Cam",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
